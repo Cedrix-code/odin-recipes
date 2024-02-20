@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes project for odin curriculum
+Recipes project for odin curriculum all about HTML
